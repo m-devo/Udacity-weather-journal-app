@@ -1,1 +1,0 @@
-# Udacity-weather-journal-app
